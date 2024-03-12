@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "931589323629",
+    "project_id": "wheater-debe2",
+    "storage_bucket": "wheater-debe2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931589323629:android:f99cafb99387252b31f864",
+        "android_client_info": {
+          "package_name": "com.example.weather_app_cubit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAu8OsTpi-f_N2xPMUXNsDvwWEVePR0QpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

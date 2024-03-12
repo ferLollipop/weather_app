@@ -1,0 +1,42 @@
+{
+  "weather_service": "WEATHER\nSERVICE",
+  "dawn_is_coming_soon": "dawn is coming soon",
+  "auth": {
+    "login": "Вход",
+    "enter_credits": "Введите данные для входа",
+    "email": "Email",
+    "password": "Пароль",
+    "log_in": "Войти"
+  },
+  "errors": {
+    "email_or_password_incorrect": "Неверный email или пароль",
+    "unknown": "Неизвестная ошибка",
+    "error": "Ошибка",
+    "no_internet": "Проверьте интернет соединение",
+    "server": "Ошибка сервера",
+    "repeat": "Повторить",
+    "no_location": "Геопозиция не определена"
+  },
+  "weather": {
+    "temp": "{}º",
+    "min_max_temp": "Макс: {}º Мин: {}º",
+    "today": "Сегодня",
+    "wind": "{} м/с",
+    "humidity": "{} %",
+    "wind_detail": {
+      "north": "Ветер северный",
+      "northeast": "Ветер северо-восточный",
+      "eastern": "Ветер восточный",
+      "southeast": "Ветер юго-восточный",
+      "south": "Ветер южный",
+      "southwest": "Ветер юго-западный",
+      "west": "Ветер западный",
+      "northwest": "Ветер северо-западный"
+    },
+    "humidity_detail": {
+      "low": "Низкая влажность",
+      "medium": "Средняя влажность",
+      "high": "Высокая влажность"
+    }
+  }
+}
